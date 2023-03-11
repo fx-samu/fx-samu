@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samu_2
+- 👋 Hi, I’m @ƒx Samu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer engieneering
 - 💞️ I’m looking to collaborate on whatever you want me in!
