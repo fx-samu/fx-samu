@@ -27,7 +27,7 @@ Through my journey as a tech enthusiast, I've experimented with various technolo
 - **Programming**: Python, C, C++, Java
 - **Data Science**: Data Analysis, Machine Learning, Visualization
 - **Tools**: Git, Docker, Linux
-- **Databases**: SQL, NoSQL
+- **Databases**: SQL, NoSQL, Semantic Web
 - **Other**: System Administration, DevOps Practices, Typst
 
 ## 😉 Connect With Me
