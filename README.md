@@ -1,4 +1,4 @@
-# Hello! 🚀
+# 🚀 Hello! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Data+Science+Enthusiast;Tech+Explorer" alt="Typing SVG" />
@@ -12,7 +12,7 @@ I'm a multi-phased tech enthusiast, with a passion for Data Science at its core
 
 I'm passionate about technology and data science, with a strong foundation in computer science and practical **experience in the financial sector thanks to Santander and Citi**. I enjoy working with high-performance systems and exploring new technologies.
 
-## Tech Experience
+## 📋 Tech Experience
 
 Through my journey as a tech enthusiast, I've experimented with various technologies:
 
@@ -22,20 +22,20 @@ Through my journey as a tech enthusiast, I've experimented with various technolo
 - **Data Science**: Tableau, PowerBI, PyTorch
 - **Web Development**: Python-based solutions for rapid development and automation
 
-## Skills
-- **Languages**: Spanish (Native), English (C2)
+## ⛏️ Skills
+- **Languages**: Spanish (Native), English (C2), German (A1)
 - **Programming**: Python, C, C++, Java
 - **Data Science**: Data Analysis, Machine Learning, Visualization
 - **Tools**: Git, Docker, Linux
 - **Databases**: SQL, NoSQL
-- **Other**: System Administration, DevOps Practices
+- **Other**: System Administration, DevOps Practices, Typst
 
-## Connect With Me
+## 😉 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/schavezf/)
 - [Email](mailto:samuel.chavez@ug.uchile.cl)
 - ~~[Personal Web Page](https://sicf.cl)~~ _Coming Soon™_
 
-## GitHub Stats
+## 📰 GitHub Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fx-samu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fx-samu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
